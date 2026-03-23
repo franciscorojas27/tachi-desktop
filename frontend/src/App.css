@@ -1,0 +1,43 @@
+#app {
+  height: 100vh;
+  text-align: center;
+}
+html {
+  background: #333333;
+}
+
+.result {
+  height: 20px;
+  line-height: 20px;
+  margin: 1.5rem auto;
+}
+
+.input-box .btn {
+  width: 60px;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 3px;
+  border: none;
+  margin: 0 0 0 20px;
+  padding: 0 8px;
+  cursor: pointer;
+}
+
+#container {
+  width: 500px;
+  margin: 0 auto;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+#container .btn {
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 3px;
+  border: none;
+  margin: 10px 0;
+  padding: 0 8px;
+  cursor: pointer;
+}

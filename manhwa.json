@@ -1,0 +1,650 @@
+{
+  "utimos_mangas_creados": [
+    {
+      "_id": "fukuzatsu-na-kyoudai-no--koma_1774206392582",
+      "real_id": "fukuzatsu-na-kyoudai-no--koma_1774206392582",
+      "_plataforma": "manual",
+      "_imagen": "https://imagizer.imageshack.com/img922/1382/zlF0Co.jpg",
+      "_categoris": [2, 6, 18, 28],
+      "_tipo": "manga",
+      "_erotico": "no",
+      "_demografi": "shonen",
+      "the_real_name": "Fukuzatsu na Kyoudai no 4-koma"
+    },
+    {
+      "_id": "la-teoria-magica-del-santo-de-la-espada-regresado_1774201861713",
+      "real_id": "la-teoria-magica-del-santo-de-la-espada-regresado_1774201861713",
+      "_plataforma": "manual",
+      "_imagen": "https://imagizer.imageshack.com/img923/8819/1kh6Ka.png",
+      "_categoris": [1, 3, 23, 29, 31, 41, 49],
+      "_tipo": "manhwa",
+      "_erotico": "no",
+      "_demografi": "shonen",
+      "the_real_name": "La Teoría Mágica del Santo de la Espada Regresado"
+    },
+    {
+      "_id": "si-es-para-conquistar-mazmorras-es-necesario-hacer-una-comedia-romantica_1774197883133",
+      "real_id": "si-es-para-conquistar-mazmorras-es-necesario-hacer-una-comedia-romantica_1774197883133",
+      "_plataforma": "manual",
+      "_imagen": "https://imagizer.imageshack.com/img922/6655/ljCprz.jpg",
+      "_categoris": [2, 3, 15, 18, 23, 42],
+      "_tipo": "manga",
+      "_erotico": "no",
+      "_demografi": "shojo",
+      "the_real_name": "Si es para conquistar mazmorras, ¿es necesario hacer una comedia romántica?"
+    },
+    {
+      "_id": "handa-kun_1774197637142",
+      "real_id": "handa-kun_1774197637142",
+      "_plataforma": "manual",
+      "_imagen": "https://imagizer.imageshack.com/img924/8954/o8aSK7.png",
+      "_categoris": [18, 28, 42],
+      "_tipo": "manga",
+      "_erotico": "no",
+      "_demografi": "seinen",
+      "the_real_name": "Handa-kun"
+    },
+    {
+      "_id": "telework-yotabanashi_1774195879997",
+      "real_id": "telework-yotabanashi_1774195879997",
+      "_plataforma": "manual",
+      "_imagen": "https://imagizer.imageshack.com/img922/6776/Qrfcw4.jpg",
+      "_categoris": [2, 28, 42],
+      "_tipo": "manga",
+      "_erotico": "no",
+      "_demografi": "seinen",
+      "the_real_name": "Telework Yotabanashi"
+    },
+    {
+      "_id": "tokiwa-kitareri_1774114615901",
+      "real_id": "tokiwa-kitareri_1774114615901",
+      "_plataforma": "manual",
+      "_imagen": "https://imagizer.imageshack.com/img922/462/znSeup.png",
+      "_categoris": [3, 29, 31, 33, 39, 46, 49],
+      "_tipo": "manga",
+      "_erotico": "no",
+      "_demografi": "shonen",
+      "the_real_name": "Tokiwa Kitareri!!"
+    },
+    {
+      "_id": "mieruko-chan-koushiki-anthology-comic_1774113042867",
+      "real_id": "mieruko-chan-koushiki-anthology-comic_1774113042867",
+      "_plataforma": "manual",
+      "_imagen": "https://imagizer.imageshack.com/img923/7646/7asjPy.jpg",
+      "_categoris": [15, 18, 31, 32, 42],
+      "_tipo": "manga",
+      "_erotico": "no",
+      "_demografi": "seinen",
+      "the_real_name": "Mieruko-chan Koushiki Anthology Comic"
+    },
+    {
+      "_id": "sora-he_1774112199828",
+      "real_id": "sora-he_1774112199828",
+      "_plataforma": "manual",
+      "_imagen": "https://imagizer.imageshack.com/img924/8602/Hc9RjK.jpg",
+      "_categoris": [3, 33, 38],
+      "_tipo": "manga",
+      "_erotico": "no",
+      "_demografi": "shonen",
+      "the_real_name": "Sora he..."
+    }
+  ],
+  "utimos_mangas_creados_18": [
+    {
+      "_id": "una-taza-de-leche-por-favor-_1774199483913",
+      "real_id": "una-taza-de-leche-por-favor-_1774199483913",
+      "_plataforma": "manual",
+      "_imagen": "https://imagizer.imageshack.com/img922/5354/5U4PE5.jpg",
+      "_categoris": [1, 2, 4, 14, 18, 30],
+      "_tipo": "manhwa",
+      "_erotico": "si",
+      "_demografi": "seinen",
+      "the_real_name": "¡Una taza de leche, por favor! "
+    },
+    {
+      "_id": "Ogokri_Boot_1774091005279",
+      "real_id": "Ogokri_Boot_1774091005279",
+      "_plataforma": "toptoon",
+      "_imagen": "https://imagizer.imageshack.com/img922/7062/1jkvOS.jpg",
+      "_categoris": [1, 2, 6, 18, 30, 31],
+      "_tipo": "manhwa",
+      "_erotico": "si",
+      "_demografi": "seinen",
+      "the_real_name": "Reinicio De Ahegao"
+    },
+    {
+      "_id": "la-maldicion-de-la-vecina_1774077042400",
+      "real_id": "la-maldicion-de-la-vecina_1774077042400",
+      "_plataforma": "manual",
+      "_imagen": "https://imagizer.imageshack.com/img924/3180/KtT5zP.jpg",
+      "_categoris": [2, 18, 30],
+      "_tipo": "manhwa",
+      "_erotico": "si",
+      "_demografi": "seinen",
+      "the_real_name": "La Maldición De La Vecina"
+    },
+    {
+      "_id": "oretama_1774027606011",
+      "real_id": "oretama_1774027606011",
+      "_plataforma": "manual",
+      "_imagen": "https://imagizer.imageshack.com/img924/3514/glMLLf.jpg",
+      "_categoris": [2, 18, 30, 31],
+      "_tipo": "manga",
+      "_erotico": "si",
+      "_demografi": "seinen",
+      "the_real_name": "Oretama"
+    },
+    {
+      "_id": "keishouki-shin-unbreaker_1773908387388",
+      "real_id": "keishouki-shin-unbreaker_1773908387388",
+      "_plataforma": "manual",
+      "_imagen": "https://imagizer.imageshack.com/img923/339/NQyO3G.jpg",
+      "_categoris": [2, 3, 18, 30],
+      "_tipo": "manga",
+      "_erotico": "si",
+      "_demografi": "shonen",
+      "the_real_name": "Keishouki Shin Unbreaker"
+    },
+    {
+      "_id": "musubime-nemuri-wa-shite-kurenakumo-nai_1773888618095",
+      "real_id": "musubime-nemuri-wa-shite-kurenakumo-nai_1773888618095",
+      "_plataforma": "manual",
+      "_imagen": "https://imagizer.imageshack.com/img924/7683/trbBAQ.jpg",
+      "_categoris": [2, 15, 18, 30, 31, 42],
+      "_tipo": "manga",
+      "_erotico": "si",
+      "_demografi": "seinen",
+      "the_real_name": "MUSUBIME NEMURI WA SHITE KURENAKUMO NAI"
+    },
+    {
+      "_id": "looking_for_love_1773756216985",
+      "real_id": "looking_for_love_1773756216985",
+      "_plataforma": "toptoon",
+      "_imagen": "https://smurfs.toptoon.com/assets/upfile/contents/12046/co_thumb12/12046_f2sDUl6Q73844n99mGB5870t9yu2yk10hf9390T5X81955273E9005859272f41o.jpg",
+      "_categoris": [],
+      "_tipo": "manhwa",
+      "_erotico": "si",
+      "_demografi": "seinen",
+      "the_real_name": "사랑을 찾아서"
+    },
+    {
+      "_id": "Daechidong_Romance_1773579803574",
+      "real_id": "Daechidong_Romance_1773579803574",
+      "_plataforma": "toptoon",
+      "_imagen": "https://smurfs.toptoon.com/assets/upfile/contents/12045/co_thumb12/12045_v477topnc1V89xExj9UivvU393h7099MwtB99bl5j55w263e30i5ks7Mf8t3215k.jpg",
+      "_categoris": [],
+      "_tipo": "manhwa",
+      "_erotico": "si",
+      "_demografi": "seinen",
+      "the_real_name": "대치동 로맨스"
+    }
+  ],
+  "top": {
+    "manhwas_esp": [
+      {
+        "link": "/manga/comic-el-men-de-la-venzanza_1694253402800",
+        "_status": "publicandose",
+        "caps": 148,
+        "imagen": "https://imagizer.imageshack.com/img922/2498/V12MfK.jpg",
+        "name": "La Venganza del Sabueso de Sangre de Hierro",
+        "numero": 31487
+      },
+      {
+        "link": "/manga/el-asesino-que-retorno-como-el-hijo-del-duque_1709706732873",
+        "_status": "publicandose",
+        "caps": 112,
+        "imagen": "https://imagizer.imageshack.com/img923/1977/iQIqz2.png",
+        "name": "El Asesino que Retorno Como el Hijo del Duque ",
+        "numero": 19700
+      },
+      {
+        "link": "/manga/el_jugador_que_regresó_10000_años_después_1700342290289",
+        "_status": "publicandose",
+        "caps": 144,
+        "imagen": "https://imagizer.imageshack.com/img924/8836/GPEUKs.jpg",
+        "name": "El jugador que regreso 10000 años despues",
+        "numero": 18656
+      },
+      {
+        "link": "/manhwa/XX_lesson_with_my_sister_1715601802062",
+        "_status": "finalizado",
+        "caps": 100,
+        "imagen": "https://imagizer.imageshack.com/img924/5311/iTJ3lc.jpg",
+        "name": "Clases Secretas con mi hermanita",
+        "numero": 17641
+      },
+      {
+        "link": "/manga/amigo-de-la-infancia-zenith_1722857010845",
+        "_status": "publicandose",
+        "caps": 92,
+        "imagen": "https://imagizer.imageshack.com/img924/7186/xj6Mb7.jpg",
+        "name": "Amigo De La Infancia Zenith",
+        "numero": 13269
+      },
+      {
+        "link": "/manhwa/recommend_harem_1746882644337",
+        "_status": "publicandose",
+        "caps": 42,
+        "imagen": "https://ccdn.lezhin.com/v2/comics/7011746759803462/images/tall.jpg?updated=1756880505281&width=840",
+        "name": "Ella recomienda un harem ",
+        "numero": 12780
+      },
+      {
+        "link": "/manga/elregresodelamadrasta_1732583426416",
+        "_status": "publicandose",
+        "caps": 65,
+        "imagen": "https://imagizer.imageshack.com/img923/47/snDYjN.jpg",
+        "name": "El regreso de la madrasta",
+        "numero": 12766
+      },
+      {
+        "link": "/manhwa/manito_1729339399928",
+        "_status": "publicandose",
+        "caps": 72,
+        "imagen": "https://imagizer.imageshack.com/img924/3596/dwo9Ka.jpg",
+        "name": "Amigo Secreto",
+        "numero": 12021
+      },
+      {
+        "link": "/manga/miesposafugitiva_1733663815723",
+        "_status": "publicandose",
+        "caps": 63,
+        "imagen": "https://imagizer.imageshack.com/img922/8615/NKjIgJ.jpg",
+        "name": "Mi Esposa Fugitiva",
+        "numero": 11646
+      },
+      {
+        "link": "/manga/emperador_mágico_1703957316968",
+        "_status": "publicandose",
+        "caps": 813,
+        "imagen": "https://imagizer.imageshack.com/img923/9540/amOJJn.jpg",
+        "name": "Emperador Magico",
+        "numero": 11253
+      }
+    ],
+    "manhwas_raw": [
+      {
+        "link": "/manga/dejadefumar_1724705448986",
+        "_status": "publicandose",
+        "caps": 80,
+        "imagen": "https://imagizer.imageshack.com/img924/5417/3OIxDh.png",
+        "name": "Deja de fumar",
+        "numero": 37088
+      },
+      {
+        "link": "/manga/comic-el-mejor-ingeniero-del-mundo-olympus_1691758184582",
+        "_status": "finalizado",
+        "caps": 222,
+        "imagen": "https://imagizer.imageshack.com/img922/3376/QWF51V.png",
+        "name": "El Mejor Ingeniero del Mundo",
+        "numero": 35282
+      },
+      {
+        "link": "/manhwa/glory_hole_1679782381480",
+        "_status": "finalizado",
+        "caps": 151.5,
+        "imagen": "https://imagizer.imageshack.com/img924/8800/D0jI35.jpg",
+        "name": "La Tienda del Placer",
+        "numero": 32934
+      },
+      {
+        "link": "/manga/comic-el-men-de-la-venzanza_1694253402800",
+        "_status": "publicandose",
+        "caps": 148,
+        "imagen": "https://imagizer.imageshack.com/img922/2498/V12MfK.jpg",
+        "name": "La Venganza del Sabueso de Sangre de Hierro",
+        "numero": 31487
+      },
+      {
+        "link": "/manga/¿que_le_sucede_a_esta_familia__1710385671081",
+        "_status": "finalizado",
+        "caps": 81,
+        "imagen": "https://imagizer.imageshack.com/img922/9413/lfCNAw.jpg",
+        "name": "¿Qué le sucede a esta familia?",
+        "numero": 29744
+      },
+      {
+        "link": "/manga/la-vida-despues-de-la-muerte_1696084388227",
+        "_status": "publicandose",
+        "caps": 236.5,
+        "imagen": "https://imagizer.imageshack.com/img923/2696/Nh6jEV.jpg",
+        "name": "La Vida Despues de la Muerte",
+        "numero": 29534
+      },
+      {
+        "link": "/manhwa/Milp_Hunter_from_another_world_1687782626618",
+        "_status": "publicandose",
+        "caps": 112,
+        "imagen": "https://imagizer.imageshack.com/img921/7480/rC8XLl.jpg",
+        "name": "Cazador de Milfs de Otro Mundo",
+        "numero": 26012
+      },
+      {
+        "link": "/manhwa/Misses_1726059801952",
+        "_status": "publicandose",
+        "caps": 78,
+        "imagen": "https://imagizer.imageshack.com/img923/5258/W3ASpG.jpg",
+        "name": "De Vuelta A La Juventud",
+        "numero": 25913
+      },
+      {
+        "link": "/manga/comic-solo_leveling_1691379040764",
+        "_status": "finalizado",
+        "caps": 200.5,
+        "imagen": "https://dashboard.olympusbiblioteca.com/storage/comics/covers/230/Fm6u-ngaYAAZKyf-xl.webp",
+        "name": "Solo L3vel1ng",
+        "numero": 25654
+      },
+      {
+        "link": "/manhwa/mom_swap_1737633796754",
+        "_status": "publicandose",
+        "caps": 58,
+        "imagen": "https://imagizer.imageshack.com/img923/1904/u7ZtVs.jpg",
+        "name": "Plan de Intercambio de Madres",
+        "numero": 25499
+      }
+    ]
+  },
+  "manhwas": {
+    "_manhwas": [
+      {
+        "name_manhwa": "La profesora Yoonji",
+        "chapter": 38,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img923/4263/42wcE1.jpg",
+        "id_rel": "teacher_yoonji_1753358601102",
+        "_plataforma": "toptoon",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "ZeroXy",
+        "name_manhwa": "El Sr. Superconductor",
+        "chapter": 38,
+        "create": 1774213523453,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img922/2079/asqkvB.jpg",
+        "id_rel": "el-sr-superconductor_1756585528674",
+        "id_manhwa": "el-sr-superconductor_1756585528674",
+        "_plataforma": "manual",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "capa sin heroe",
+        "name_manhwa": "Jefe de Equipo, Parese Bien",
+        "chapter": 21,
+        "create": 1774213405186,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img922/8361/m5Z8cg.jpg",
+        "id_rel": "Team_leader_stand_up_straight_1765105404847",
+        "id_manhwa": "Team_leader_stand_up_straight_1765105404847",
+        "_plataforma": "toptoon",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "capa sin heroe",
+        "name_manhwa": "Female Corruption",
+        "chapter": 24,
+        "create": 1774213402904,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img922/9609/v5YYGt.jpg",
+        "id_rel": "female-corruption_1764494269270",
+        "id_manhwa": "female-corruption_1764494269270",
+        "_plataforma": "manual",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "capa sin heroe",
+        "name_manhwa": "Dias Maravillosos",
+        "chapter": 73,
+        "create": 1774213401382,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img922/308/3TDBaA.jpg",
+        "id_rel": "Beautiful_Days_1730037799926",
+        "id_manhwa": "Beautiful_Days_1730037799926",
+        "_plataforma": "toptoon",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "ZeroXy",
+        "name_manhwa": "Jiwoo y Wooyeon",
+        "chapter": 13,
+        "create": 1774208274421,
+        "_demografi": "josei",
+        "img": "https://imagizer.imageshack.com/img922/8787/1UObsd.jpg",
+        "id_rel": "jiwoo-y-wooyeon_1768771128926",
+        "id_manhwa": "jiwoo-y-wooyeon_1768771128926",
+        "_plataforma": "manual",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "ZeroXy",
+        "name_manhwa": "Atando Mi Secreto",
+        "chapter": 36,
+        "create": 1774208272267,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img924/9927/J19YQQ.jpg",
+        "id_rel": "atando-mi-secreto_1751015387562",
+        "id_manhwa": "atando-mi-secreto_1751015387562",
+        "_plataforma": "manual",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "Parquesito Scan",
+        "name_manhwa": "¡Una taza de leche, por favor! ",
+        "chapter": 1,
+        "create": 1774199597682,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img922/5354/5U4PE5.jpg",
+        "id_rel": "una-taza-de-leche-por-favor-_1774199483913",
+        "id_manhwa": "una-taza-de-leche-por-favor-_1774199483913",
+        "_plataforma": "manual",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "super saurio",
+        "name_manhwa": "Stepsis x Bigbro",
+        "chapter": 10,
+        "create": 1774199086991,
+        "_demografi": "seinen",
+        "img": "https://ccdn.lezhin.com/v2/comics/7011731640094437/images/tall.jpg?updated=1734316630867&width=840",
+        "id_rel": "stepsis_x_bigbro_1733335830636",
+        "id_manhwa": "stepsis_x_bigbro_1733335830636",
+        "_plataforma": "lezhin",
+        "_tipo": "manhwa",
+          "lgbt": "no"
+        },
+      {
+        "gru_name": "ZeroXy",
+        "name_manhwa": "La Maldición De La Vecina",
+        "chapter": 3,
+        "create": 1774198901530,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img924/3180/KtT5zP.jpg",
+        "id_rel": "la-maldicion-de-la-vecina_1774077042400",
+        "id_manhwa": "la-maldicion-de-la-vecina_1774077042400",
+        "_plataforma": "manual",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "ᴬᵏ₄₇ Iʟᴜᴍɪɴᴀᴛɪᴇs",
+        "name_manhwa": " Fiesta en la Piscina",
+        "chapter": 29,
+        "create": 1774198754019,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img923/301/tcQJru.jpg",
+        "id_rel": "-fiesta-en-la-piscina_1759519164951",
+        "id_manhwa": "-fiesta-en-la-piscina_1759519164951",
+        "_plataforma": "toptoon",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "ZeroXy",
+        "name_manhwa": "Juegos De Invierno 2: MILF",
+        "chapter": 8,
+        "create": 1774198708309,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img922/1585/I6e7C0.jpg",
+        "id_rel": "juegos-de-invierno--milf_1773273507274",
+        "id_manhwa": "juegos-de-invierno--milf_1773273507274",
+        "_plataforma": "manual",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      }
+    ],
+    "manhwas_esp": [
+      {
+        "gru_name": "The Unknowns",
+        "name_manhwa": "Me Confundieron con un Genio del Futbol",
+        "chapter": 20,
+        "create": 1774215400405,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img922/2966/J1loS4.png",
+        "id_rel": "me-confundieron-con-un-genio-del-futbol_1756097433579",
+        "id_manhwa": "me-confundieron-con-un-genio-del-futbol_1756097433579",
+        "_plataforma": "manual",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "Sin Trabajo Ni Estudios",
+        "name_manhwa": "Reiwa no Dara-san",
+        "chapter": 11,
+        "create": 1774215396036,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img923/5208/jgDiGo.jpg",
+        "id_rel": "reiwa-no-dara-san_1773845775055",
+        "id_manhwa": "reiwa-no-dara-san_1773845775055",
+        "_plataforma": "manual",
+        "_tipo": "manga",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "The Unknowns",
+        "name_manhwa": "El cazador de clase S cura con monstruos",
+        "chapter": 8,
+        "create": 1774215391726,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img924/4408/kHetsz.jpg",
+        "id_rel": "el-cazador-de-clase-s-cura-con-monstruos_1758836129854",
+        "id_manhwa": "el-cazador-de-clase-s-cura-con-monstruos_1758836129854",
+        "_plataforma": "manual",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "El Retumbar ",
+        "name_manhwa": "Bungou Stray Dogs: Wan!",
+        "chapter": 209,
+        "create": 1774215373479,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img922/2050/K2Pzt2.png",
+        "id_rel": "bungou-stray-dogs-wan_1762788318668",
+        "id_manhwa": "bungou-stray-dogs-wan_1762788318668",
+        "_plataforma": "manual",
+        "_tipo": "manga",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "El Retumbar ",
+        "name_manhwa": "God Of Blackfield",
+        "chapter": 201,
+        "create": 1774215348274,
+        "_demografi": "shonen",
+        "img": "https://imagizer.imageshack.com/img924/484/HyKTj4.png",
+        "id_rel": "god-of-blackfield_1750802807749",
+        "id_manhwa": "god-of-blackfield_1750802807749",
+        "_plataforma": "manual",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "El Retumbar ",
+        "name_manhwa": "Las Constelaciones Son Mis Discipulos",
+        "chapter": 140,
+        "create": 1774215245897,
+        "_demografi": "shonen",
+        "img": "https://imagizer.imageshack.com/img924/5652/K5zIgG.jpg",
+        "id_rel": "comic-las-constelaciones-son-mis-discipulos_1691861687544",
+        "id_manhwa": "comic-las-constelaciones-son-mis-discipulos_1691861687544",
+        "_plataforma": "olympus",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "El Retumbar ",
+        "name_manhwa": "La Venganza del Sabueso de Sangre de Hierro",
+        "chapter": 155,
+        "create": 1774215220521,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img922/2498/V12MfK.jpg",
+        "id_rel": "comic-el-men-de-la-venzanza_1694253402800",
+        "id_manhwa": "comic-el-men-de-la-venzanza_1694253402800",
+        "_plataforma": "olympus",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "El Retumbar ",
+        "name_manhwa": "El jugador que regreso 10000 años despues",
+        "chapter": 149.5,
+        "create": 1774215205292,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img924/8836/GPEUKs.jpg",
+        "id_rel": "el_jugador_que_regresó_10000_años_después_1700342290289",
+        "id_manhwa": "el_jugador_que_regresó_10000_años_después_1700342290289",
+        "_plataforma": "olympus",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "El Retumbar ",
+        "name_manhwa": "Mi Novia Tomboy de Otro Colegio",
+        "chapter": 39.5,
+        "create": 1774215201354,
+        "_demografi": "shonen",
+        "img": "https://imagizer.imageshack.com/img922/7595/yt8cgO.jpg",
+        "id_rel": "mi-novia-tomboy-de-otro-colegio_1745097532227",
+        "id_manhwa": "mi-novia-tomboy-de-otro-colegio_1745097532227",
+        "_plataforma": "manual",
+        "_tipo": "manga",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "Cerberus",
+        "name_manhwa": "El general - La leyenda del combate (Sec. Mujang)",
+        "chapter": 4,
+        "create": 1774215164224,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img922/9242/LrzBtT.png",
+        "id_rel": "el-general---la-leyenda-del-combate-sec-mujang_1773752826475",
+        "id_manhwa": "el-general---la-leyenda-del-combate-sec-mujang_1773752826475",
+        "_plataforma": "manual",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      },
+      {
+        "gru_name": "Confi",
+        "name_manhwa": "Star Ginseng Store",
+        "chapter": 80,
+        "create": 1774215131038,
+        "_demografi": "seinen",
+        "img": "https://imagizer.imageshack.com/img922/6397/UL2ZG3.jpg",
+        "id_rel": "star-ginseng-store_1752782727044",
+        "id_manhwa": "star-ginseng-store_1752782727044",
+        "_plataforma": "manual",
+        "_tipo": "manhwa",
+        "lgbt": "no"
+      }
+    ]
+  }
+}
