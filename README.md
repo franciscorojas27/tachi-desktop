@@ -80,12 +80,3 @@ Nota: `gh` pedirá autenticación si no estás logueado.
 - Abre un issue o un PR con mejoras: traducciones, soporte multi-idioma, mejoras del lector o integración con fuentes externas.
 - Sigue la convención de commits (tipo: scope — mensaje) para mantener el historial legible.
 
-**Licencia**
-Incluye una licencia en el repo si quieres distribuir. Ejemplo rápido: `MIT`.
-
---
-¿Quieres que ejecute ahora los pasos: inicializar `git`, hacer commit, crear el repo remoto con `gh` y publicar una release? Responde "Sí, hazlo" y ejecutaré los comandos (necesitarás estar logueado en `gh` si no lo estás). Si prefieres que solo haga el `README.md` y el commit local, dime "Solo README".
-
-***
-Archivo modificado automáticamente por asistente: `README.md` — Contenido orientado a promoción y uso.
-
